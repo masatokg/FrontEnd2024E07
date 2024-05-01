@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+
+
+  font-family: 'Verdana','Hiragino Sans','Meiryo',sans-serif;
+}
+h1 {
+  font-size: 18px;
+  border: 3px solid #ffffff;
+  border-radius: 20px;
+  padding: 6px 0;
+  margin: 20px auto;
+  width: 300px;
+
+}
+p,ul {
+
+  margin-bottom: 20px;
+}
+img {
+  border-radius: 50%;
+}
+a {
+  background-color:blueviolet;
+
+  padding: 20px 0;
+  border-radius: 4px;
+
+  font-weight: bold;
+}
+ul {
+  width: 300px;
+  margin: 0 auto;
+}
+li {
+  margin-bottom: 20px;
+}
